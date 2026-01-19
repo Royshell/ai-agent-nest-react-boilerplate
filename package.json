@@ -6,9 +6,12 @@
   "scripts": {
     "lint": "echo \"No lint configured yet\"",
     "build": "echo \"No build configured yet\"",
-    "dev": "echo \"Apps are not set up yet. Run dev scripts from each app once created.\""
+    "dev": "concurrently -n SERVER,WEB -c blue,green \"pnpm --filter server start:dev\" \"pnpm --filter web dev\""
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "typescript": "^5.9.3"
+  },
   "engines": {
     "node": ">=20.0.0"
   }

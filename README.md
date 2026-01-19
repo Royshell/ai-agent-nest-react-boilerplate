@@ -18,3 +18,4 @@ apps/
   web/      # React frontend (coming next)
 packages/
   shared/   # Shared TypeScript types & utils
+```
