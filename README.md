@@ -16,10 +16,7 @@ Feel free to copy, fork, strip it down, or build on top of it.
 
 ## Demo
 
-<!-- Insert demo GIF here -->
-<!-- Example:
 ![AI Agent Demo](./docs/images/chat-bot.gif)
--->
 
 ---
 
