@@ -6,7 +6,7 @@
 ---
 
 > **⚡ Currently supports:** Google Gemini  
-> **🚧 Coming soon:** OpenAI, Anthropic Claude, and more — each in its own branch for a clean, focused setup
+> **🚧 Coming soon:** OpenAI, Groq (llama), Anthropic Claude, and more — each in its own branch for a clean, focused setup
 
 ---
 
