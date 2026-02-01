@@ -74,8 +74,6 @@ Copy it. Fork it. Gut it. Rebuild it. Make it yours.
 apps/
   server/        # NestJS backend (API + AI agent logic)
   web/           # React frontend (chat UI)
-packages/
-  shared/        # Types, utilities, shared code
 
 Each app is isolated with its own:
 - Environment variables
