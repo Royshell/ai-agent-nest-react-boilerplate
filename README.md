@@ -1,4 +1,4 @@
-# AI Agent — NestJS + React Boilerplate
+# AI Agent ChatBot — NestJS + React Boilerplate
 
 > *"Good artists borrow, great artists steal."* — Igor Stravinsky  
 > So go ahead, steal this. That's what it's here for. 🎨
@@ -7,6 +7,7 @@
 
 > **⚡ Currently supports:** Google Gemini  
 > **🚧 Coming soon:** OpenAI, Groq (llama), Anthropic Claude, and more — each in its own branch for a clean, focused setup
+> **🧩 Planned:** MCP (Model Context Protocol) placeholders for future tool & context integrations
 
 ---
 
@@ -305,11 +306,6 @@ ai-agent-nest-react-boilerplate/
 │       │   ├── hooks/       # Custom hooks
 │       │   └── App.tsx      # Main app component
 │       └── package.json
-│
-├── packages/
-│   └── shared/              # Shared code
-│       ├── types/           # TypeScript types
-│       └── utils/           # Utilities
 │
 ├── package.json             # Root workspace config
 └── pnpm-workspace.yaml      # Workspace definition
