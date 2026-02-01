@@ -80,7 +80,7 @@ Each app is isolated with its own:
 - Dependencies
 - Lifecycle
 
-But they share common code where it makes sense.
+But they can share common code where it makes sense.
 ```
 
 ---
