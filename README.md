@@ -1,4 +1,4 @@
-# AI Agent ChatBot — NestJS + React Boilerplate
+# AI Agent — NestJS + React Boilerplate
 
 > *"Good artists borrow, great artists steal."* — Igor Stravinsky  
 > So go ahead, steal this. That's what it's here for. 🎨
