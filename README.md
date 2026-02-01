@@ -7,7 +7,6 @@
 
 > **⚡ Currently supports:** Google Gemini  
 > **🚧 Coming soon:** OpenAI, Groq (llama), Anthropic Claude, and more — each in its own branch for a clean, focused setup
-
 > **🧩 Planned:** MCP (Model Context Protocol) placeholders for future tool & context integrations — making it more than a ChatBot!
 
 ---
