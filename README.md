@@ -1,6 +1,6 @@
 # AI Agent - NestJS + React Boilerplate
 
-> *"Good artists borrow, great artists steal."* — Igor Stravinsky  
+> *"Good artists borrow, great artists steal."* - Igor Stravinsky  
 > So go ahead, steal this. That's what it's here for. 🎨
 
 ---
@@ -11,7 +11,7 @@
 
 ---
 
-## TL;DR — Quick Start
+## TL;DR - Quick Start
 
 **Want to get started in 60 seconds?**
 
@@ -317,7 +317,7 @@ ai-agent-nest-react-boilerplate/
 
 There are **no restrictions** on copying or adapting parts of the codebase.
 
-If this helps you build something useful or interesting — **that's exactly the point.**
+If this helps you build something useful or interesting - **that's exactly the point.**
 
 ---
 
